@@ -8,7 +8,7 @@
 - Cucumber
 - Git
 
-## Construido Con ##
+## Construido Con requisitos ##
    La automatizacion fue desarrollada con:
  - BDD - patron de desarrollo
  - Screenplay que es la implementacion The Journey pattern
