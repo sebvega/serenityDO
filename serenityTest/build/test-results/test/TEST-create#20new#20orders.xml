@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="create new orders" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-11-12T16:11:53" hostname="CHMEPFZJG1B3" time="57.73">
+  <properties/>
+  <testcase name="add new product" classname="create new orders" time="30.185"/>
+  <testcase name="add new shipper" classname="create new orders" time="27.545"/>
+  <system-out><![CDATA[Step argument class io.cucumber.core.gherkin.vintage.GherkinVintageDataTableArgument
+Step argument class io.cucumber.core.gherkin.vintage.GherkinVintageDataTableArgument
+Step argument class io.cucumber.core.gherkin.vintage.GherkinVintageDataTableArgument
+Step argument class io.cucumber.core.gherkin.vintage.GherkinVintageDataTableArgument
+Step argument class io.cucumber.core.gherkin.vintage.GherkinVintageDataTableArgument
+Step argument class io.cucumber.core.gherkin.vintage.GherkinVintageDataTableArgument
+]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Running feature from file:///D:/Nueva%20carpeta/aprueba/serenityDO-main/serenityDO-main/serenityTest/src/test/resources/com/choucair/www/vega/test/features/orders.feature
+[Test worker] WARN io.cucumber.core.plugin.SerenityReporter - Feature from file:///D:/Nueva%20carpeta/aprueba/serenityDO-main/serenityDO-main/serenityTest/src/test/resources/com/choucair/www/vega/test/features/orders.feature is not under the 'features' directory. Requirements report will not be correctly generated!
+[Test worker] INFO  - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+
+add new product(create-new-orders;add-new-product)
+-------------------------------------------------------------------
+nov 12, 2022 11:11:53 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --start-maximized,--enable-..., goog:chromeOptions: {args: [--start-maximized, --enable-automation, --no-sandbox, --disable-gpu-sandbox], extensions: [], prefs: {behavior: allow, safebrowsing.enabled: false}}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+Starting ChromeDriver 107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}) on port 41469
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+nov 12, 2022 11:11:54 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] INFO  - ?[92m
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+add new product
+----------------------------------------------------------------------------?[0m
+[Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Running feature from file:///D:/Nueva%20carpeta/aprueba/serenityDO-main/serenityDO-main/serenityTest/src/test/resources/com/choucair/www/vega/test/features/orders.feature
+[Test worker] WARN io.cucumber.core.plugin.SerenityReporter - Feature from file:///D:/Nueva%20carpeta/aprueba/serenityDO-main/serenityDO-main/serenityTest/src/test/resources/com/choucair/www/vega/test/features/orders.feature is not under the 'features' directory. Requirements report will not be correctly generated!
+[Test worker] INFO  - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+
+add new shipper(create-new-orders;add-new-shipper)
+-------------------------------------------------------------------
+nov 12, 2022 11:12:23 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --start-maximized,--enable-..., goog:chromeOptions: {args: [--start-maximized, --enable-automation, --no-sandbox, --disable-gpu-sandbox], extensions: [], prefs: {behavior: allow, safebrowsing.enabled: false}}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+Starting ChromeDriver 107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}) on port 27751
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+nov 12, 2022 11:12:25 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] INFO  - ?[92m
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+add new shipper
+----------------------------------------------------------------------------?[0m
+]]></system-err>
+</testsuite>
